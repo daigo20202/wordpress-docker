@@ -1,0 +1,4 @@
+# git submodule add git@github.com:daigo20202/WordPress.git ./WordPress
+[submodule "WordPress"]
+	path = WordPress
+	url = git@github.com:daigo20202/WordPress.git
